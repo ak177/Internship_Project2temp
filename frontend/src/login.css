@@ -1,0 +1,23 @@
+/* .g-signin{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: max-content
+} */
+
+.custom{
+   
+    margin: 20% 50% auto 50%;
+    width: max-content;
+    padding: 5px !important;
+    border: 5px solid #2390df !important;
+    border-radius: 5px !important;
+}
+
+.piche-vala{
+    height: 100vw;
+    width: 100%;
+    background-image: url('https://s32625.pcdn.co/wp-content/uploads/2017/06/Promo36.jpg.webp');
+}

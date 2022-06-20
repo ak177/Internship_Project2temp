@@ -1,0 +1,14 @@
+.prdts{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.new-prdts{
+    
+    width: 30%;
+    padding: 1rem;
+    /* flex: 0 0 0 ; */
+    /* display: block; */
+}
